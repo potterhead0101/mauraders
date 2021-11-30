@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    background-image:url("bg.jpg");
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px; 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	text-align: center;
+    text-decoration: solid;
+}
+
+
+
